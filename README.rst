@@ -47,3 +47,4 @@ Getting Started
 -----------------------------
 
 noddenv -n 16.13.0 -p
+npm install -g @vue/cli@next
