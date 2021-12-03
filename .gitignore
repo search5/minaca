@@ -20,3 +20,7 @@ Data*.fs*
 coverage
 test
 *.sqlite
+minaca/static/css
+minaca/static/favicon.ico
+minaca/static/index.html
+minaca/static/js
