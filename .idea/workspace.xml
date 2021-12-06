@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c362cc00-301f-45fb-80b3-2b25a33257ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.jshintrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/minaca-ui/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/minaca-ui/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/minaca-ui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/minaca-ui/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/minaca-ui/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/minaca-ui/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/minaca-ui/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/minaca-ui/src/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/minaca-ui/src/views/HomeView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/minaca-ui/src/views/HomeView.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +46,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="Settings.JavaScript.Linters.JSHint" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -167,7 +168,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1638505450198</updated>
-      <workItem from="1638505451530" duration="6178000" />
+      <workItem from="1638505451530" duration="7890000" />
     </task>
     <servers />
   </component>
