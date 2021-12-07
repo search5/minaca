@@ -9,7 +9,7 @@ from .. import models
 
 @view_config(route_name='home', renderer='minaca:templates/index.jinja2')
 def my_view(request):
-    return {}
+   return {}
 
 
 @view_config(route_name='api_test', renderer='json')
